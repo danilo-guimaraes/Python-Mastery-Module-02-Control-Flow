@@ -29,8 +29,8 @@ Second module of my Python journey. The exercises jump from linear logic to real
 ## 📊 Progress
 
 - **Exercises completed:** 71 (accumulated M1 + M2)
-- **Previous module:** [Logic Foundations — Module 01](https://github.com/danilo-guimaraes/Python-Logic-Foundations-Module-01)
-- **Next module:** [Composite Structures — Module 03](https://github.com/danilo-guimaraes/Python-Mastery-Module-03)
+- **Previous module:** [Logic Foundations — Module 01](https://github.com/danilo-guimaraes/python-curso-em-video-m01)
+- **Next module:** [Composite Structures — Module 03](https://github.com/danilo-guimaraes/python-curso-em-video-m03)
 
 ## 👤 Author
 
